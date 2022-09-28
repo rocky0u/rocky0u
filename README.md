@@ -86,6 +86,6 @@ samsepi0ls">
 </a>
 
 ![Snake animation](https://github.com/
-samsepi0ls/
-samsepi0ls/blob/output/github-contribution-grid-snake.svg)
+eur0nymous/
+eur0nymous/blob/output/github-contribution-grid-snake.svg)
 
