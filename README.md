@@ -7,10 +7,12 @@ A project cannot be done alone, and when it does, it is done well. These reposit
 <h1></h1>
 
 <div>
-<a href="https://github.com/eur0nymous"></a>
+<a href="https://github.com/samsepi0ls"></a>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=eur0nymous&show_icons=true&theme=radical">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eur0nymous&layout=compact&theme=radical">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=
+samsepi0ls&show_icons=true&theme=radical">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
+samsepi0ls&layout=compact&theme=radical">
 <div>
 <br/>
 
@@ -74,7 +76,8 @@ A project cannot be done alone, and when it does, it is done well. These reposit
 
 
 <h3>🤘Follow me</h3>
-<a target="_blank" href="https://linkedin.com/in/eur0nymous">
+<a target="_blank" href="https://linkedin.com/in/
+samsepi0ls">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -82,5 +85,7 @@ A project cannot be done alone, and when it does, it is done well. These reposit
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 </a>
 
-![Snake animation](https://github.com/eur0nymous/eur0nymous/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/
+samsepi0ls/
+samsepi0ls/blob/output/github-contribution-grid-snake.svg)
 
