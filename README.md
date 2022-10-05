@@ -9,7 +9,7 @@
 
 - 🌱 Currently studying Cybersecurity at **FIAP**
 
-- 👯 I’m looking to collaborate on [Cash Override](https://www.linkedin.com/company/crash-override-inc/?viewAsMember=true)
+- 👯 I’m looking to collaborate on [Crash Override](https://www.linkedin.com/company/crash-override-inc/?viewAsMember=true)
 
 - 👨‍💻 All of my projects are available at [https://github.com/samsepi0ls](https://github.com/samsepi0ls)
 
