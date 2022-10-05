@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/samsepi0ls](https://github.com/samsepi0ls)
 
-- 📝 I regularly write articles on [https://medium.com/@samsepi0ls](https://medium.com/@samsepi0ls)
+- 📝 I regularly write articles on [https://medium.com/@samsepi0ls](https://medium.com/@samsepi0l)
 
 - 📫 How to reach me **https://www.linkedin.com/in/samsepi0lss/**
 
