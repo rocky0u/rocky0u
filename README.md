@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3moon" alt="d3moon" /></a> </p>
 
-- 🔭 I’m currently working on [Minu](https://www.minu.co)
-
-- 🌱 Currently studying Cybersecurity at **FIAP**
-
-- 👯 I’m looking to collaborate on [Crash Override](https://www.linkedin.com/company/crash-override-inc/?viewAsMember=true)
+- 🌱 Currently graduated Cybersecurity at **FIAP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/d3moon](https://github.com/d3moon)
 
