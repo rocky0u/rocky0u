@@ -11,15 +11,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@d3moon](https://medium.com/@samsepi0l)
 
-- 📫 How to reach me **https://www.linkedin.com/in/d3moon/**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/d3moon/](https://www.linkedin.com/in/d3moon/)
 
 - ⚡ Fun fact **I used to be a pianist**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3moon&show_icons=true&locale=en&layout=compact" alt="d3moon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3moon&show_icons=true&locale=en" alt="d3moon" /></p>
-
-[![Commit Activity](https://img.shields.io/github/commit-activity/m/d3moon/myrepo)](https://github.com/d3moon/myrepo)
