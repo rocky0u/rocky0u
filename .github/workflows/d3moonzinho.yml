@@ -1,0 +1,30 @@
+name: Update GitHub profile with commit streak
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Get commit streak
+      run: |
+        git log --pretty=format:"%h" | wc -l > .commits
+
+    - name: Update profile
+      uses: actions/github-script@0.9.1
+      with:
+        script: |
+          const commits = parseInt(fs.readFileSync('.commits', 'utf8'));
+          const snake = '🐍'.repeat(commits % 10);
+          const octocat = '🐙'.repeat(commits % 10);
+          const profile = await github.users.getAuthenticated();
+          await github.users.update({
+            ...profile.data,
+            bio: `${snake} ${octocat}`
+          });
