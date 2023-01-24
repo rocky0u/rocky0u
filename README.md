@@ -33,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3moon&show_icons=true&locale=en&layout=compact" alt="d3moon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3moon&show_icons=true&locale=en" alt="d3moon" /></p>
+
+[![Commit Activity](https://img.shields.io/github/commit-activity/m/d3moon/myrepo)](https://github.com/d3moon/myrepo)
