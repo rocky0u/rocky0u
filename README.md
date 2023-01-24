@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3moon" alt="d3moon" /></a> </p>
 
-<img alt="Awesome GitHub Profile Readme" src="https://media.tenor.com/xuNo8NDdwIkAAAAd/hackerman.gif"></img>
+<img alt="hackerman" src="https://media.tenor.com/xuNo8NDdwIkAAAAd/hackerman.gif"></img>
 
 - 🌱 Currently graduated Cybersecurity at **FIAP**
 
