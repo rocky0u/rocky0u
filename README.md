@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm João Victor F. Braga</h1>
 <h3 align="center">A Specialist in Software Development and Offensive Security</h3>
 
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3moon&label=Profile%20views&color=0e75b6&style=flat" alt="d3moon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3moon" alt="d3moon" /></a> </p>
