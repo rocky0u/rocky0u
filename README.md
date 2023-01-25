@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3moon" alt="d3moon" /></a> </p>
 
+
 <img alt="hackerman" src="https://media.tenor.com/xuNo8NDdwIkAAAAd/hackerman.gif"></img>
 
 - 🌱 Currently graduated Cybersecurity at **FIAP**
@@ -18,6 +19,15 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/d3moon/](https://www.linkedin.com/in/d3moon/)
 
 - ⚡ Fun fact **I used to be a pianist**
+<br/>
+
+
+"Help support the work of a dedicated programmer by contributing with your donation. Your contribution will allow me to continue creating innovative solutions and changing the world through my coding work."
+
+```
+Bitcoin   [BTC]     bc1qpj6ue0c95maxrgzyzg366pvrwqzmaxp3j9a9h2
+```
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
