@@ -40,4 +40,8 @@ Bitcoin   [BTC]     bc1qpj6ue0c95maxrgzyzg366pvrwqzmaxp3j9a9h2
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3moon&show_icons=true&locale=en&layout=compact" alt="d3moon" /></p>
 
+## Linguagens
+![GitHub top language](https://img.shields.io/github/languages/top/USERNAME/REPO)
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3moon&show_icons=true&locale=en" alt="d3moon" /></p>
