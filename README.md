@@ -2,7 +2,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B4F7A3&width=700&lines=%22Man+is+free+at+the+moment+he+wishes+to+be.%22+-+Voltaire" alt="Typing SVG" /></a></p>
 <h3 align="center">A Specialist in Software Development and Offensive Security</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=d3moon&show_icons=true&theme=radical" alt="D3moon GitHub stats">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=d3moon&show_icons=true&theme=tokyonight"/> 
 </p>
 
 ![snake gif](https://github.com/d3moon/d3moon/blob/output/github-contribution-grid-snake.svg)
