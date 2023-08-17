@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@d3moon](https://medium.com/@samsepi0l)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/d3moon/](https://www.linkedin.com/in/d3moon/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jvf-braga/](https://www.linkedin.com/in/jvf-braga/)
 - Portfolio [https://portfolio-jvf-braga.vercel.app](https://portfolio-jvf-braga.vercel.app)
 
 - ⚡ Fun fact **I used to be a pianist**
